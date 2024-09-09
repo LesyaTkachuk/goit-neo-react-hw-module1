@@ -1,0 +1,32 @@
+table,
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 5px 10px;
+  background-color: rgb(28, 24, 24);
+}
+
+td {
+  padding: 5px 10px;
+}
+
+.table {
+  border: 2px solid black;
+  width: 100%;
+}
+
+.white-text {
+  color: white;
+}
+
+.capitalized {
+  text-transform: capitalize;
+}
+
+.grey {
+  background-color: rgb(198, 197, 197);
+}
